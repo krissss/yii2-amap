@@ -29,7 +29,7 @@ class AMapWidget extends Widget
         ]
     ];
     /**
-     * @link https://developer.amap.com/api/javascript-api/guide/map/lifecycle#创建地图常用参数
+     * @link https://developer.amap.com/api/javascript-api/reference/map
      * @var array
      */
     public $clientOptions = [];
